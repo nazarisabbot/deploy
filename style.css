@@ -501,7 +501,7 @@ body {
   width: 25px;
   top: 0;
   left: -55px;
-  background-image: url("/assets/img/quotes_left.svg");
+  background-image: url("quotes_left.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -522,7 +522,7 @@ body {
   background-size: contain;
   bottom: 20px;
   left: 340px;
-  background-image: url("/assets/img/quotes_right.svg");
+  background-image: url("quotes_right.svg");
 }
 
 .aboutus__cite {
@@ -719,7 +719,7 @@ body {
   right: 0;
   height: 654px;
   width: 675px;
-  background-image: url('/assets/img/main_photo.png');
+  background-image: url('main_photo.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 50px;
@@ -799,19 +799,19 @@ body {
 }
 
 .halls__item_vibes {
-  background-image: url('/assets/img/photo_01.jpg');
+  background-image: url('photo_01.jpg');
 }
 
 .halls__item_wars {
-  background-image: url('/assets/img/photo_02.jpg');
+  background-image: url('photo_02.jpg');
 }
 
 .halls__item_west {
-  background-image: url('/assets/img/photo_03.jpg');
+  background-image: url('photo_03.jpg');
 }
 
 .halls__item_neon {
-  background-image: url('/assets/img/photo_04.jpg');
+  background-image: url('photo_04.jpg');
 }
 
 .halls__link {
